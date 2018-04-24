@@ -1,4 +1,6 @@
 # Jicofo
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjalsuwailem%2Fjicofo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjalsuwailem%2Fjicofo?ref=badge_shield)
+
 
 JItsi COnference FOcus is a server side focus component used in [Jitsi Meet]
  conferences.
@@ -149,3 +151,7 @@ configured with the jitsi-meet scripts, then you can find the certificate in:
 /var/lib/prosody/$JICOFO_AUTH_DOMAIN.crt 
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjalsuwailem%2Fjicofo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjalsuwailem%2Fjicofo?ref=badge_large)
